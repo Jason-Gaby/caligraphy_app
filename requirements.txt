@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+requests
+jupyter
+pandas
+openpyxl
